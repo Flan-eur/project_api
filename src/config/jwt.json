@@ -1,0 +1,7 @@
+{
+    "jwt":{
+        "secret":"YFGDJOJJIP@POHIKJDSHOOfJFJERNG",
+        "access_expirey":30,
+        "refresh_expirey":2
+    }
+}
